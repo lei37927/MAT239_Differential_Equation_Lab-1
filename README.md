@@ -4,7 +4,7 @@
 You can find the requirements for this Lab [here](MAT_239_Lab_1.pdf)
 
 ## How to run it
-Download [MATLAB](https://www.mathworks.com/products/matlab.html) and run it.
+Download [MATLAB](https://www.mathworks.com/products/matlab.html) and run main.m file.
 
 See report for Lab 1 [here](https://cefns.nau.edu/~zl248/MAT239/Lab1/)
 
