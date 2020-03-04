@@ -1,7 +1,7 @@
 # MAT239_Differential_Equation_Lab-1
 
 ### Project Requirements
-You can find the requirements for this Lab [here](MAT_239_Lab_1 _1_.pdf)
+You can find the requirements for this Lab [here](MAT_239_Lab_1.pdf)
 
 ## How to run it
 Download [MATLAB](https://www.mathworks.com/products/matlab.html) and run it.
